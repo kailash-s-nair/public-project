@@ -13,5 +13,5 @@ This is a public project demonstrating the use of GitHub's Project Board, issues
 We use a GitHub Project Board to track progress. Check the Issues tab to find open tasks. 
 #  GitHub Log  
 
-![Github Log]("Git Log.png")  
+![Github Log](Git-Log.png)    
 This is the screenshot of the git log.  
