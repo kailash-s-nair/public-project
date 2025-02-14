@@ -1,4 +1,6 @@
 # public-project
+### Kailash Subash Nair
+### 100932798
 ## Project Overview  
 This is a public project demonstrating the use of GitHub's Project Board, issues, and version control. It includes:  
 - A **GitHub repository** for managing source code  
